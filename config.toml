@@ -1,6 +1,4 @@
-#baseURL = "https://all-lean.github.io/all-lean/"
-baseURL = "https://all-lean.com/"
-#baseURL = "localhost:8000/"
+baseURL = "https://all-lean.github.io/all-lean/"
 languageCode = "en-us"
 title = "Infinity Comming Soon Template By Themefisher"
 theme = "infinity-hugo"
