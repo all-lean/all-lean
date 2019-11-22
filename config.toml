@@ -16,7 +16,7 @@ theme = "infinity-hugo"
     # Hero Area
     [params.hero]
         enable      = true
-        bg          = "images/header-bg.jpg"
+        bg          = "images/All-Lean-1.png"
         title       = "All Lean"
         subtitle    = "Change for good"
         btnText     = "¿Qué es Lean?"
