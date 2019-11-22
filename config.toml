@@ -11,15 +11,15 @@ theme = "infinity-hugo"
         home = "Home"
         about = "About"
         service = "Services"
-        contact = "Contact"
+        contact = "Contacto"
 
     # Hero Area
     [params.hero]
         enable      = true
         bg          = "images/header-bg.jpg"
-        title       = "BRING YOUR PRODUCT TO LIGHT"
-        subtitle    = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
-        btnText     = "Get Started"
+        title       = "All Lean"
+        subtitle    = "Change for good"
+        btnText     = "¿Qué es Lean?"
         countdownYear = "2019"
         countdownMonth = "12"
         countdownDay  = "27"
